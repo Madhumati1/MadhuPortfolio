@@ -1,6 +1,18 @@
-.bg-primary-main {
-    background-color: red!important;
+.bg-primary-main{
+    background-color: aqua;
 }
 
-.test{
+
+
+
+.phone
+{
+    width: 15;
+    height: 15;
+}
+.nav-item{
+    display: block;
+}
+.navbar-collapse{
+    font-display: auto;
 }
